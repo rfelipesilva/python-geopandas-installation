@@ -1,32 +1,31 @@
 # python-geopandas-installation
 Step-by-step to install geopandas properly
 
-1. go to https://www.lfd.uci.edu/~gohlke/pythonlibs/
-2. Libs required:
-  1. GDAL
-  2. Fiona
-  3. lxml
-  4. Rtree
-  5. pyproj
-  6. Shapely
-  7. descartes
+## 1. Go to https://www.lfd.uci.edu/~gohlke/pythonlibs/
 
-3. - download following libs (according to your python version and system):
+## 2. Libs required:
+> - GDAL
+> - Fiona
+> - lxml
+> - Rtree
+> - pyproj
+> - Shapely
+> - descartes
 
-  2.1 - GDAL
-  2.2 - Fiona
-  2.3 - lxml
-  2.4 - Rtree
-  2.5 - pyproj
-  2.6 - Shapely
-  
-4. Start installing following the order below:
+## 3. Download following libs (according to your python version and system):
+> - GDAL
+> - Fiona
+> - lxml
+> - Rtree
+> - pyproj
+> - Shapely
 
-  3.1 - python -m pip install GDAL.......
-  3.2 - python -m pip install Fiona......
-  3.3 - python -m pip install lxml.......
-  3.4 - python -m pip install Rtree......
-  3.5 - python -m pip install pyproj.....
-  3.6 - python -m pip install Shapely.....
-  3.7 - python -m pip install descartes (NO NEED TO DOWNLOAD whl FILE)
-  3.8 - python -m pip install geopandas (NO NEED TO DOWNLOAD whl FILE)
+## 4. Start installing following the order below:
+> - python -m pip install GDAL.......
+> - python -m pip install Fiona......
+> - python -m pip install lxml.......
+> - python -m pip install Rtree......
+> - python -m pip install pyproj.....
+> - python -m pip install Shapely.....
+> - python -m pip install descartes (NO NEED TO DOWNLOAD whl FILE)
+> - python -m pip install geopandas (NO NEED TO DOWNLOAD whl FILE)
